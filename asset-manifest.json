@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/twetter-clone/static/css/main.f83a45d9.css",
+    "main.js": "/twetter-clone/static/js/main.52740eec.js",
+    "index.html": "/twetter-clone/index.html",
+    "main.f83a45d9.css.map": "/twetter-clone/static/css/main.f83a45d9.css.map",
+    "main.52740eec.js.map": "/twetter-clone/static/js/main.52740eec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f83a45d9.css",
+    "static/js/main.52740eec.js"
+  ]
+}
